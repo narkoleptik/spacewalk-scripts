@@ -1,0 +1,4 @@
+---
+username: username-here
+password: sekret
+url: https://my-spacewalk-fqdn.example.com/rpc/api
